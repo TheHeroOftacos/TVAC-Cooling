@@ -1,0 +1,14 @@
+*.git
+*-bak
+*-backups
+*-cache*
+*.kicad_prl
+*-bak*
+*.bak
+*.lck
+_autosave*
+\#auto_saved_files\#
+fp-lib-table
+fp-info-cache
+sym-lib-table
+.history
